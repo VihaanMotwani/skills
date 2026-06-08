@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verify Demo"
+  short_description: "Prove what works after a slice"
+  default_prompt: "Use $verify-demo to collect evidence after a completed slice."

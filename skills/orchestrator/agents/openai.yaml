@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orchestrator"
+  short_description: "Route new app builds through the workflow"
+  default_prompt: "Use $orchestrator to route a greenfield app build through the build workflow."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brainstorm"
+  short_description: "Turn app ideas into reviewed specs"
+  default_prompt: "Use $brainstorm to turn my app idea into a reviewed product spec."

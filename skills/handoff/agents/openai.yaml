@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handoff"
+  short_description: "Write clean handoffs before compaction"
+  default_prompt: "Use $handoff to write a clean session handoff before context gets crowded."

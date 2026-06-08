@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Concept"
+  short_description: "Generate tasteful product visuals"
+  default_prompt: "Use $visual-concept to create tasteful image-generated visual directions for this product."

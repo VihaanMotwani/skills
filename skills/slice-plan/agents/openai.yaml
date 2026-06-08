@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slice Plan"
+  short_description: "Choose one visible vertical slice"
+  default_prompt: "Use $slice-plan to create a slice ladder and the next slice contract."

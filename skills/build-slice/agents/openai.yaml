@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Slice"
+  short_description: "Build one real verified slice"
+  default_prompt: "Use $build-slice to implement exactly one verified vertical slice."
